@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFrameworks>net48;net5.0;net45;net46</TargetFrameworks>
+    </PropertyGroup>
+
+    <PropertyGroup Label="Globals">
+        <ProjectGuid>58354d04-4153-4913-a5a9-5772ce3f1913</ProjectGuid>
+        <RootNamespace>M2Mqtt</RootNamespace>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    </PropertyGroup>
+</Project>
